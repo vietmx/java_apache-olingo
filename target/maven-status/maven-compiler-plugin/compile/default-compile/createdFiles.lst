@@ -1,0 +1,8 @@
+com\maixuanviet\examples\olingo2\CarsODataJPAServiceFactory$EntityManagerWrapper.class
+com\maixuanviet\examples\olingo2\Olingo2SampleApplication.class
+com\maixuanviet\examples\olingo2\JerseyConfig$EntityManagerFilter.class
+com\maixuanviet\examples\olingo2\JerseyConfig.class
+com\maixuanviet\examples\olingo2\JerseyConfig$CarsRootLocator.class
+com\maixuanviet\examples\olingo2\domain\CarModel.class
+com\maixuanviet\examples\olingo2\domain\CarMaker.class
+com\maixuanviet\examples\olingo2\CarsODataJPAServiceFactory.class
